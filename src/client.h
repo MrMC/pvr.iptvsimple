@@ -23,8 +23,8 @@
  *
  */
 
-#include "kodi/libXBMC_addon.h"
-#include "kodi/libXBMC_pvr.h"
+#include "mrmc/libXBMC_addon.h"
+#include "mrmc/libXBMC_pvr.h"
 
 #define M3U_FILE_NAME          "iptv.m3u.cache"
 #define TVG_FILE_NAME          "xmltv.xml.cache"
